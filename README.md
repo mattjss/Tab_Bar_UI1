@@ -1,4 +1,6 @@
-# Tab Bar 1
+# Tab_Bar_UI1
+
+Tab Bar UI experiments using Figma MCP and Cursor.
 
 A UI animation project focused on high-fidelity interaction design and motion prototypes.
 
